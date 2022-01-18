@@ -15,10 +15,12 @@ gaHealth*.ga.txt
 
 In order to test the accuracy of in-domain health models developed using gaHealth, the validation and test sets from LoResMT2021 were used:
 
-dev.en
-dev.ga
+-- dev.en
 
-test.en.txt
-test.ga.txt
+-- dev.ga
+
+-- test.en.txt
+
+-- test.ga.txt
 
 # References

@@ -22,3 +22,5 @@ In order to test the accuracy of in-domain health models developed using gaHealt
 -- test.ga.txt
 
 # References
+Ojha, A.K., Liu, C.H., Kann, K., Ortega, J., Shatam, S. and Fransen, T., 2021. 
+Findings of the LoResMT 2021 Shared Task on COVID and Sign Language for Low-resource Languages. arXiv preprint arXiv:2108.06598.

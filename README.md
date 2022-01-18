@@ -33,9 +33,13 @@ Training GA-EN model with combined 17k ga- Health corpus and 8k LoResMT2021 covi
 
 Training EN-GA model with combined 17k ga- Health corpus and 8k LoResMT2021 covid corpus achieving a max validation accuracy of 38.3% and perplexity of 120 after 40k steps. BLEU score: 37.6.
 
+***
+
 ![image](https://user-images.githubusercontent.com/29402225/149958511-1a64b72f-e865-4d3f-b0f9-92e4e5a58436.png)
 
 Training EN-GA model with 8k LoResMT2021 covid corpus achieving a max validation accuracy of 30.0% and perplexity of 354 after 30k steps. BLEU score: 36.0.
+
+***
 
 # References
 Lankford, S., Afli, H. and Way, A., 2021, August. Machine Translation in the Covid domain: an English-Irish case study for LoResMT 2021. In Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021) (pp. 144-150).

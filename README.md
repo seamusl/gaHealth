@@ -25,19 +25,19 @@ In order to test the accuracy of in-domain health models developed using gaHealt
 
 ![image](https://user-images.githubusercontent.com/29402225/149958050-1d2c1385-7e3a-49d7-bd3d-a936044df529.png)
 
-Training GA-EN model with combined 17k gaHealth corpus and 8k LoResMT2021 covid corpus achieving a max validation accuracy of 38.7% and perplexity of 126 after 40k steps. BLEU score: 57.6.
+Training **GA-EN** model with **combined 17k gaHealth corpus and 8k LoResMT2021 covid corpus** achieving a max validation accuracy of 38.7% and perplexity of 126 after 40k steps. BLEU score: 57.6.
 
 ***
 
 ![image](https://user-images.githubusercontent.com/29402225/149958414-a1fb2364-1d52-45c2-af04-35c93f9d9753.png)
 
-Training EN-GA model with combined 17k gaHealth corpus and 8k LoResMT2021 covid corpus achieving a max validation accuracy of 38.3% and perplexity of 120 after 40k steps. BLEU score: 37.6.
+Training **EN-GA** model with **combined 17k gaHealth corpus and 8k LoResMT2021 covid corpus** achieving a max validation accuracy of 38.3% and perplexity of 120 after 40k steps. BLEU score: 37.6.
 
 ***
 
 ![image](https://user-images.githubusercontent.com/29402225/149958511-1a64b72f-e865-4d3f-b0f9-92e4e5a58436.png)
 
-Training EN-GA model with 8k LoResMT2021 covid corpus achieving a max validation accuracy of 30.0% and perplexity of 354 after 30k steps. BLEU score: 36.0.
+Training **EN-GA** model with **8k LoResMT2021 covid corpus** achieving a max validation accuracy of 30.0% and perplexity of 354 after 30k steps. BLEU score: 36.0.
 
 ***
 

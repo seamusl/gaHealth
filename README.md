@@ -21,9 +21,13 @@ In order to test the accuracy of in-domain health models developed using gaHealt
 -- test.en.txt
 <br />-- test.ga.txt
 
+***
+
 ![image](https://user-images.githubusercontent.com/29402225/149958050-1d2c1385-7e3a-49d7-bd3d-a936044df529.png)
 
 Training GA-EN model with combined 17k ga- Health corpus and 8k LoResMT2021 covid corpus achieving a max validation accuracy of 38.7% and perplexity of 126 after 40k steps. BLEU score: 57.6.
+
+***
 
 ![image](https://user-images.githubusercontent.com/29402225/149958414-a1fb2364-1d52-45c2-af04-35c93f9d9753.png)
 

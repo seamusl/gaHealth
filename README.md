@@ -25,15 +25,15 @@ In order to test the accuracy of in-domain health models developed using gaHealt
 
 ** Corpora Stats **
 
-Lines         |   Words     |   Characters
-<br />249         4278          26665       test.ga.txt
+Lines					|   Words			|   Characters
+<br />249					4278          26665       test.ga.txt
 <br />249         3394          19891       test.en.txt
 <br />
-<br />502         9406          63505       dev.ga
-<br />502         7731          51525       dev.en
+<br />502					9406					63505				dev.ga
+<br />502					7731					51525				dev.en
 <br />
-<br />24338       424127        2851986     gaHealth*.ga.txt
-<br />24338       372976        2378565     gaHealth*.en.txt
+<br />24338				424127				2851986			gaHealth*.ga.txt
+<br />24338				372976				2378565			gaHealth*.en.txt
 
 ***
 

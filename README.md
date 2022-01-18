@@ -21,6 +21,8 @@ In order to test the accuracy of in-domain health models developed using gaHealt
 -- test.en.txt
 <br />-- test.ga.txt
 
+![image](https://user-images.githubusercontent.com/29402225/149958050-1d2c1385-7e3a-49d7-bd3d-a936044df529.png)
+
 # References
 Lankford, S., Afli, H. and Way, A., 2021, August. Machine Translation in the Covid domain: an English-Irish case study for LoResMT 2021. In Proceedings of the 4th Workshop on Technologies for MT of Low Resource Languages (LoResMT2021) (pp. 144-150).
 

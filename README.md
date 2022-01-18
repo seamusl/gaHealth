@@ -5,21 +5,21 @@ To assess the merits of using in-domain data, a dataset for the specific domain 
 
 The following training files may be used for developing in-domain health models:
 
-gaHealth.en.txt
-gaHealth.ga.txt
+--gaHealth.en.txt
+--<br /> gaHealth.ga.txt
 
 The following files have augmented the gaHealth corpus with 8k lines of additional data from LoResMT2021:
 
-gaHealth*.en.txt
-<br /> gaHealth*.ga.txt
+--gaHealth*.en.txt
+--<br /> gaHealth*.ga.txt
 
 In order to test the accuracy of in-domain health models developed using gaHealth, the validation and test sets from LoResMT2021 were used:
 
 -- dev.en
--- dev.ga
+<br />-- dev.ga
 
 -- test.en.txt
--- test.ga.txt
+<br />-- test.ga.txt
 
 # References
 Ojha, A.K., Liu, C.H., Kann, K., Ortega, J., Shatam, S. and Fransen, T., 2021. 
